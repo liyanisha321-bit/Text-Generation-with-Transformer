@@ -1,0 +1,40 @@
+Smart Research Assistant
+Developed a Python-based NLP application to summarize technical articles and answer questions from the given content.
+Used Transformer models (FLAN-T5 & TinyLlama) for text summarization and question answering.
+Built and deployed the prototype using Streamlit, gaining practical experience in NLP, Transformers, prompt engineering and AI application development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+🤖 Smart Research Assistant — 4 Important Points
+
+1. What I used:
+
+“I developed a Smart Research Assistant using Python, Pandas, Hugging Face Transformers and PyTorch, with transformer models such as FLAN-T5 and TinyLlama.”
+
+2. What the project does:
+
+“The system takes technical articles and can summarize the content and answer questions based on the article, helping users understand lengthy information quickly.”
+
+3. Outcome:
+
+“We found that TinyLlama handled targeted question-answering effectively, while FLAN-T5 had limitations with longer text. We also deployed the prototype using Streamlit and Hugging Face Spaces.”
+
+4. Skills I learned: ⭐
+
+“Through this project, I learned NLP, Transformer models, prompt engineering, text summarization, question answering, model inference with PyTorch, and Streamlit deployment.”
+
+🔥 One-line ending
+
+“The key learning from this project was how Generative AI can convert large amounts of unstructured text into concise information and useful answers.”
+
+The notebook specifically describes the project as addressing information overload and concludes that the Streamlit interface supports summarization and insight extraction for better decision-making.
